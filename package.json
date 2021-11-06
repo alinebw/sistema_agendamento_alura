@@ -1,0 +1,26 @@
+{
+  "name": "sistema_agendamento_alura",
+  "version": "1.0.0",
+  "description": "Sistema de agendamento desenvolvido em aula",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinebw/sistema_agendamento_alura.git"
+  },
+  "author": "Aline Branco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinebw/sistema_agendamento_alura/issues"
+  },
+  "homepage": "https://github.com/alinebw/sistema_agendamento_alura#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
